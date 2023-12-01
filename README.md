@@ -8,5 +8,5 @@ To run the project on your local machine:
 3) Run npm run dev on your terminal
 
 <p align="center">
-  <img width="600" height="700" src="src/UI.png">
+  <img width="800" height="500" src="src/UI.png">
 </p>
