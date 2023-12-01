@@ -13,6 +13,6 @@ To run the project on your local machine:
 
 
 <p align="center">
-  <img width="800" height="500" src="src/U2.png">
+  <img width="800" height="500" src="src/UI2.png">
 </p>
 
